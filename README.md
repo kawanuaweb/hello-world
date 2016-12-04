@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Belajar membuat repository dan commit pertama :)
